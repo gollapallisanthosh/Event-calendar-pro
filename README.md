@@ -91,13 +91,10 @@ This project demonstrates strong frontend development skills, including DOM mani
 
 ## 📸 Screenshots
 ### 🖥️ Main UI
-![Calendar UI](<img width="564" height="470" alt="image" src="https://github.com/user-attachments/assets/50e7dea3-991c-4aa9-9cc7-d853ca7e8842" />)
+<img width="564" height="470" alt="image" src="https://github.com/user-attachments/assets/e3a66dab-0ae7-4257-b4d6-6b33065f7489" />
 
 ### 🌙 Dark Mode
-![Dark Mode](<img width="559" height="476" alt="image" src="https://github.com/user-attachments/assets/1c91e0cf-7473-4c0f-9560-e716f7787a41" />)
-
-### 📝 Event Management
-![Events](assets/screenshot3.png)
+<img width="559" height="476" alt="image" src="https://github.com/user-attachments/assets/90dfa956-2e48-4b76-9ff4-1fa9a8bb9bbd" />
 
 ---
 
