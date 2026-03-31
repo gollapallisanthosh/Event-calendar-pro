@@ -7,7 +7,7 @@ This project provides a modern UI and powerful event management features similar
 
 ## 🌟 Live Demo
 
-👉 https://your-live-link.netlify.app  
+👉 https://gollapallisanthosh.github.io/Event-calendar-pro/
 *(Add after deployment)*
 
 ---
